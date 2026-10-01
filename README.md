@@ -1,4 +1,4 @@
-MC Stats
+MRP
 
 A live web dashboard for monitoring Minecraft Java server player statistics.
 
@@ -39,7 +39,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/mc-stats.git
+git clone https://github.com/Agravix/MRP.git
 cd mc-stats
 
 Create a virtual environment:
